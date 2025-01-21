@@ -44,5 +44,12 @@ Received error messages when attempting to run test
 
 Checked the email used to sign up for notifications and…..BOOM it works and notifications were sent to the email subscribed to my game day API 
 
+Final 
+
+Here is what the final product looks like once the information is received from the NBA API and pushed to the end user via email subscription. 
+
+<img width="1259" alt="Screenshot 2025-01-21 at 12 28 42 AM" src="https://github.com/user-attachments/assets/64aa6004-197c-4765-8f65-4c530f8b0620" />
+
+
 
 
