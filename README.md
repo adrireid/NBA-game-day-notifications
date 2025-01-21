@@ -30,6 +30,7 @@ Success I waited for the event trigger on the schedule I set up for which was ev
 
 Future goals: I plan to update the code to clearly display which team won in the final score. 
 
+
 Challenges
 
 While building this API I ran into a few minor challenges. 
@@ -43,6 +44,7 @@ Received error messages when attempting to run test
 3rd attempt success!!! Best message I’ve ever seen “data processed and sent to SNS’
 
 Checked the email used to sign up for notifications and…..BOOM it works and notifications were sent to the email subscribed to my game day API 
+
 
 Final 
 
