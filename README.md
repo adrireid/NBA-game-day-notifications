@@ -4,7 +4,7 @@ NBA Game Day Notifications
 
 Overview
 
-This project is a game day notification system that sends NBA game day scores via notifications to subscribed users via Email or Text message. The system utilizes Amazon SNS, AWS Lambda  Amazon EvenBridge, NBA APIs, and Python to successfully execute.
+This project is a game day notification system that sends NBA game day scores via notifications to subscribed users via Email or Text message. The system utilizes Amazon SNS, AWS Lambda,  Amazon EvenBridge, NBA APIs, and Python to successfully execute.
 
 Features
 
